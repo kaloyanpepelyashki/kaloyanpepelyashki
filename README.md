@@ -13,4 +13,5 @@ I am currently advancing my skills, pursuing a bachelor's degree in Web Developm
 - 21 years young
 - Proudly a Bulgarian
 - :mortar_board:Student at EASV (Erhvervsakademi SydVest), aiming to make a mark in the tech world
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyanpepelyashki)](https://github.com/anuraghazra/github-readme-stats)
