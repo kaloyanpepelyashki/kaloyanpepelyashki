@@ -6,12 +6,12 @@ I am currently advancing my skills, pursuing a bachelor's degree in Web Developm
 
 ###### Technology
 - :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL
-- **Development Frameworks**: React.js, Flutter, ASP.Net
-- **Database Management**: Supabase, Firebase, MySQL
+- :dvd:**Development Frameworks**: React.js, Flutter, ASP.Net
+- :floppy_disk:**Database Management**: Supabase, Firebase, MySQL
   
 ###### Personal
 - 21 years young
 - Proudly a Bulgarian
-- Student at EASV (Erhvervsakademi SydVest), aiming to make a mark in the tech world
+- :mortar_board:Student at EASV (Erhvervsakademi SydVest), aiming to make a mark in the tech world
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyanpepelyashki)](https://github.com/anuraghazra/github-readme-stats)
