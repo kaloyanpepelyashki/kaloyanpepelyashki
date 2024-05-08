@@ -6,8 +6,8 @@ I am currently advancing my skills, pursuing a bachelor's degree in Web Developm
 
 ###### Technology
 - :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL
-- :dvd:**Development Frameworks**: React.js, Flutter, ASP.Net
-- :floppy_disk:**Database Management**: Supabase, Firebase, MySQL
+- :dvd:**Development Frameworks**: React.js, Flutter, .Net
+- :floppy_disk:**Database Management**: Supabase, MySQL, Firebase, MongoDB
   
 ###### Personal
 - 21 years young
