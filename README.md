@@ -5,7 +5,7 @@ Greetings from Aarhus, Denmark—the city of smiles! As a full-stack developer p
 I am currently advancing my skills, pursuing a bachelor's degree in Web Development at EASV, Denmark. On my journey to get certified! Furthermore, professionally, I am assisting the innovative team at Ebits Aps as a full-stack developer, developing an AI-automated content creation pipeline. The project aims to assist the talented marketers at Ebits, to generate content on demand, with the mighty power of OpenAI APIs, LangChain, and a video generative model.
 
 ###### Technology
-- :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL
+- :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
 - :dvd:**Development Frameworks**: React.js, Flutter, .Net
 - :floppy_disk:**Database Management**: Supabase, MySQL, Firebase, MongoDB
   
