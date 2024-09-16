@@ -3,6 +3,7 @@
 
 Greetings from Aarhus, Denmark—the city of smiles! As a full-stack developer passionate about web and software development, I enjoy transforming complex challenges into sleek, reliable, robust, and easy-to-use solutions.
 I am currently advancing my skills, pursuing a bachelor's degree in Web Development at EASV, Denmark. On my journey to get certified! Furthermore, professionally, I am assisting the innovative team at Ebits Aps as a full-stack developer, developing an AI-automated content creation pipeline. The project aims to assist the talented marketers at Ebits, to generate content on demand, with the mighty power of OpenAI APIs, LangChain, and a video generative model.
+Additionally, I am collaborating with the amazing team of Kazboo as a back-end engineer consultant, helping them document, optimise and migrate a monstrous .Net codebase.
 
 ###### Technology
 - :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
