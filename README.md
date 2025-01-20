@@ -8,7 +8,7 @@ Additionally, I am collaborating with the amazing team of Kazboo as a back-end e
 ###### Technology
 - :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
 - :dvd:**Development Frameworks**: React.js, Flutter, .Net
-- :floppy_disk:**Database Management**: Supabase, MySQL, Firebase, MongoDB
+- :floppy_disk:**Database Management**: Supabase, MySQL, PGSql, Firebase, MongoDB
   
 ###### Personal
 - 21 years young
