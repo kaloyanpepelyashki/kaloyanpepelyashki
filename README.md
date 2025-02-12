@@ -11,8 +11,8 @@ Additionally, I am collaborating with the amazing team of Kazboo as a back-end e
 - :floppy_disk:**Database Management**: Supabase, MySQL, PGSql, Firebase, MongoDB
   
 ###### Personal
-- 21 years young
+- 22 years young
 - Proudly a Bulgarian
-- :mortar_board:Student at EASV (Erhvervsakademi SydVest), aiming to make a mark in the tech world
+- Expat in Denmark
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyanpepelyashki)](https://github.com/anuraghazra/github-readme-stats)
