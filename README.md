@@ -1,5 +1,5 @@
 ### Hi there, my name is Kaloyan(Kalos) 
-(not havig a profile pic is not purpose. I want to keep this cool character)
+(not havig a profile pic is on purpose. I want to keep this cool character)
 ##### I am a full-stack software developer
 
 Greetings from Aarhus, Denmark—the city of smiles! As a full-stack developer passionate about web and software development, I enjoy transforming complex challenges into sleek, reliable, robust, and easy-to-use solutions.
