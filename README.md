@@ -2,12 +2,13 @@
 (not havig a profile pic is on purpose. I want to keep this cool character)
 ##### I am a full-stack software developer
 
-Greetings from Aarhus, Denmark—the city of smiles! As a full-stack developer passionate about web and software development, I enjoy transforming complex challenges into sleek, reliable, robust, and easy-to-use solutions.
-I am currently advancing my skills, pursuing a bachelor's degree in Web Development at EASV, Denmark. On my journey to get certified! Furthermore, professionally, I am assisting the innovative team at Ebits Aps as a full-stack developer, developing an AI-automated content creation pipeline. The project aims to assist the talented marketers at Ebits, to generate content on demand, with the mighty power of OpenAI APIs, LangChain, and a video generative model.
-Additionally, I am collaborating with the amazing team of Kazboo as a back-end engineer consultant, helping them document, optimise and migrate a monstrous .Net codebase.
+Greetings from Aarhus, Denmark — the city of smiles! I’m Kaloyan, a passionate software developer with a Bachelor’s degree from EASV. I'm deeply into STEM — fascinated by science, technology, engineering, and maths — and driven by a constant need to learn, build, and improve.
+I love expanding my digital skillset, working on personal projects, and exploring new technologies. Currently, I’m diving into Python, creating simple console and desktop apps, and gradually stepping into the world of machine learning. 
+I like to keep myself busy - In my free time, you’ll often find me building something, solving algorithms, tackling coding challenges, or exploring the beautiful patterns of mathematics.
+My technology stack is diverce - .Net is my y go-to for serious, scalable, and resilient projects, JavaScript / TypeScript — Perfect for lightweight scripts and web apps and Python — My Swiss army knife for automation, CLI tools, and any experiments in general
 
 ###### Technology
-- :computer: **Software Development**: JavaScript/TypeScript, C#, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
+- :computer: **Software Development**: JavaScript/TypeScript, C#, Python, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
 - :dvd:**Development Frameworks**: React.js, Flutter, .Net
 - :floppy_disk:**Database Management**: Supabase, MySQL, PGSql, Firebase, MongoDB
   
