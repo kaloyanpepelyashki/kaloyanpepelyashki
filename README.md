@@ -5,7 +5,8 @@
 Greetings from Aarhus, Denmark — the city of smiles! I’m Kaloyan, a passionate software developer with a Bachelor’s degree from EASV. I'm deeply into STEM — fascinated by science, technology, engineering, and maths — and driven by a constant need to learn, build, and improve.
 I love expanding my digital skillset, working on personal projects, and exploring new technologies. Currently, I’m diving into Python, creating simple console and desktop apps, and gradually stepping into the world of machine learning. 
 I like to keep myself busy - In my free time, you’ll often find me building something, solving algorithms, tackling coding challenges, or exploring the beautiful patterns of mathematics.
-My technology stack is diverce - .Net is my y go-to for serious, scalable, and resilient projects, JavaScript / TypeScript — Perfect for lightweight scripts and web apps and Python — My Swiss army knife for automation, CLI tools, and any experiments in general
+
+My technology stack is diverce - .Net is my go-to for serious, scalable, and resilient projects, JavaScript / TypeScript — Perfect for lightweight scripts and web apps and Python — My Swiss army knife for automation, CLI tools, and any experiments in general
 
 ###### Technology
 - :computer: **Software Development**: JavaScript/TypeScript, C#, Python, PHP, GoLang, Dart, SQL (DDL, DML, DQL etc.)
