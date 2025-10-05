@@ -14,6 +14,7 @@ My technology stack is diverce - .Net is my go-to for serious, scalable, and res
 - :floppy_disk:**Database Management**: Supabase, MySQL, PGSql, Firebase, MongoDB
   
 ###### Personal
+- Software engineering student at Suddansk Universitet (SDU)
 - 22 years young
 - Proudly a Bulgarian
 - Expat in Denmark
