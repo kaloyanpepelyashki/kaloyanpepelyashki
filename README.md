@@ -15,8 +15,6 @@ My technology stack is diverce - .Net is my go-to for serious, scalable, and res
   
 ###### Personal
 - Software engineering student at Suddansk Universitet (SDU)
-- 22 years young
-- Proudly a Bulgarian
-- Expat in Denmark
+- 23 years young ;)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyanpepelyashki)](https://github.com/anuraghazra/github-readme-stats)
